@@ -1,8 +1,8 @@
 # 🌎 **Seismic Insight Bot**
 
-🌋 - Develop a **Question Answering Solution** for **Seismic Data Processing** using Azure AI-Language and Azure AI Search.
+- 🌋 Develop a **Question Answering Solution** for **Seismic Data Processing** using Azure AI-Language and Azure AI Search.
 
-💬 - Create a **chat application** that provides **quick and accurate responses** to frequently asked questions about seismic data processing and related topics.
+- 💬 Create a **chat application** that provides **quick and accurate responses** to frequently asked questions about seismic data processing and related topics.
 
 🚀 The solution includes:
   - 🛠️ **Provisioning Azure Language Resources**
